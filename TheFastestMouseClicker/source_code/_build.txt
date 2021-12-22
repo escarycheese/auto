@@ -1,0 +1,2 @@
+Note only Microsoft Visual Studio 2013 with C++ (MSVC 2013) is suitable to build this application.
+Once MSVC 2013 being installed, just open the solution file *.sln and select to build the solution.
